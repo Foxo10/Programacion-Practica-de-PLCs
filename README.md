@@ -1,1 +1,2 @@
-# Programaci-n-Pr-ctica-de-PLCs
+# PLCs
+Progrmación Pŕactica de PLCs

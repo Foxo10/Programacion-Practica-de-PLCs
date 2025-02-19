@@ -1,0 +1,9 @@
+X2____________________________________
+
+IF "estado1".%X1 AND "fcArriba" THEN
+    "estado2" := 1;
+ELSE "estado3" THEN
+    "estado2" := 0;
+END_IF
+
+X3__________________________________
